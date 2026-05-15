@@ -2,7 +2,7 @@
 
 **Nebula Calculator** is a powerful, "Swiss Army Knife" desktop scientific calculator built with Python. It combines a sleek, modern UI with a nostalgic **Vintage LCD display** aesthetic, offering a robust set of features for students, engineers, and power users.
 
-Built using the **CustomTkinter** library and compiled with **Nuitka**, Nebula delivers a native, high-performance experience with full support for System Dark/Light modes.
+Built using the **CustomTkinter** library and compiled, Nebula delivers a native, high-performance experience with full support for System Dark/Light modes.
 
 <img width="482" height="692" alt="2026-05-15 17_24_47-Nebula Calculator _ aplicatiipython@outlook com" src="https://github.com/user-attachments/assets/76220089-fa3d-4e05-a0c9-0bb7313b3796" />
 
@@ -19,7 +19,7 @@ Built using the **CustomTkinter** library and compiled with **Nuitka**, Nebula d
 
 * **Language:** Python 3.10+
 * **GUI:** CustomTkinter
-* **Compilation:** Nuitka (C++ Translated Executable)
+* **Compilation:** Compiled (C++ Translated Executable)
 * **Logic:** Math & Safe-Eval Parser
 
 ## 📥 Installation
